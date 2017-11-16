@@ -9,4 +9,4 @@ Just ao I have it somewhere so that I don't forget.
 3. Unset Masanory option in Album
 4. Set dimension to desired size  300x300
 5. Tick for exact dimensions (this doesn't effect images in lightbox)
-4. Set Album alignment center
+4. Set Album alignment center 
